@@ -1,0 +1,290 @@
+[
+    {
+        "title": "Hackthebox Doctor writeup",
+        "url": "/posts/htb-doctor/",
+        "categories": "Hackthebox, retired",
+        "tags": "CVE, Server-Side Template Injection, PySplunkWhisperer2_remote.py, LinPEAS",
+        "date": "2020-09-28 00:00:00 +0000",
+        "snippet": "Introduction@Doctor:~$ Column Details Name Doctor IP 10.10.10.209 Points 20 Os Linux Difficulty Easy Creator egotisticalSW Out On 26 Sept 2020 ..."
+    },
+    {
+        "title": "Hackthebox Compromised Writeup",
+        "url": "/posts/htb-compromised/",
+        "categories": "Hackthebox, retired",
+        "tags": "CVE-45267, disable_functions Bypass, pseudoshell, MySQL Backdoor",
+        "date": "2020-09-20 00:00:00 +0000",
+        "snippet": "Introduction@Compromised:~$ Column Details Name Compromised IP 10.10.10.207 Points 40 Os Linux Difficulty Hard Creator D4nch3n Out On 12 Sept 2020 Brief@Compromised..."
+    },
+    {
+        "title": "Hackthebox Sneakymailer writeup",
+        "url": "/posts/htb-sneakymailer/",
+        "categories": "Hackthebox, retired",
+        "tags": "email-extractor, pentest-monkey shell, Setting up package, ftp, pypi-server, Pip-gtfobins",
+        "date": "2020-07-12 00:00:00 +0000",
+        "snippet": "Introduction@sneakymailer:~$ Column Details Name Sneakymailer IP 10.10.10.197 Points 30 Os Linux Difficulty Medium Creator Sulcud Out On 11 July 2020 ..."
+    },
+    {
+        "title": "Hackthebox Omni Writeup",
+        "url": "/posts/htb-omni/",
+        "categories": "Hackthebox, retired",
+        "tags": "SirepRAT, pentest-monkey shell, Netcat Binary",
+        "date": "2020-08-24 00:00:00 +0000",
+        "snippet": "Introduction@Omni:~$ Column Details Name Omni IP 10.10.10.204 Points 20 Os Other Difficulty Easy Creator egre55 Out On 22 Aug 2020 Brief@Omni:~$..."
+    },
+    {
+        "title": "Hackthebox Feline Writeup",
+        "url": "/posts/htb-feline/",
+        "categories": "Hackthebox, retired",
+        "tags": "CVE-2020-9484, java.lang.Runtime.exec(), CVE-2020-11651, Public Exploit for CVE-2020-11651, Docker.sock Abusing",
+        "date": "2020-09-01 00:00:00 +0000",
+        "snippet": "Introduction@Feline:~$ Column Details Name Feline IP 10.10.10.205 Points 40 Os Linux Difficulty Hard Creator MinatoTW & MrR3boot Out On 29 Aug 2020..."
+    },
+    {
+        "title": "Hackthebox Passage Writeup",
+        "url": "/posts/htb-passage/",
+        "categories": "Hackthebox, retired",
+        "tags": "CVE-37474, CuteNews 2.0.3 - Arbitrary File Upload, Dbus–USBCreator–Priviesc",
+        "date": "2020-09-07 00:00:00 +0000",
+        "snippet": "Introduction@Passage:~$ Column Details Name Passage IP 10.10.10.206 Points 30 Os Linux Difficulty Medium Creator ChefByzen Out On 05 Sep 2020..."
+    },
+    {
+        "title": "Hackthebox Reel2 Writeup",
+        "url": "/posts/htb-reel2/",
+        "categories": "Hackthebox, retired",
+        "tags": "SprayingToolkit,NetNTLMv2_hash stealing using Outlook,Example_hashes,behavior of Out-Default",
+        "date": "2020-10-11 00:00:00 +0000",
+        "snippet": "Introduction@Reel2:~$ Column Details Name Reel2 Os Windows Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Jewel Writeup",
+        "url": "/posts/htb-jewel/",
+        "categories": "Hackthebox, retired",
+        "tags": "Ruby on Rails,LinPEAS,Google GAuth Authenticator,GTFOBins",
+        "date": "2020-10-29 00:00:00 +0000",
+        "snippet": "Introduction@Jewel:~$ Column Details Name Jewel Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Time Writeup",
+        "url": "/posts/htb-time/",
+        "categories": "Hackthebox, retired",
+        "tags": "Jackson Deserialization,com fasterxml jackson,CVE-2019-12384,LinPEAS,stackoverflow",
+        "date": "2020-10-30 00:00:00 +0000",
+        "snippet": "Introduction@Time:~$ Column Details Name Time Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Bucket Writeup",
+        "url": "/posts/htb-bucket/",
+        "categories": "Hackthebox, retired",
+        "tags": "HTML to PDF converter for Java and .NET",
+        "date": "2020-11-08 00:00:00 +0000",
+        "snippet": "Introduction@Time:~$ Column Details Name Bucket Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Academy Writeup",
+        "url": "/posts/htb-academy/",
+        "categories": "Hackthebox, retired",
+        "tags": "PHP Laravel Framework,Composer",
+        "date": "2020-11-11 00:00:00 +0000",
+        "snippet": "Introduction@Academy:~$ Column Details Name Academy Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Laboratory Writeup",
+        "url": "/posts/htb-laboratory/",
+        "categories": "Hackthebox, retired",
+        "tags": "reset your root password,Linux Privilege Escalation Using PATH Variable,gitlab-rails console",
+        "date": "2020-11-21 00:00:00 +0000",
+        "snippet": "Introduction@Academy:~$ Column Details Name Laboratory Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Crossfit Writeup",
+        "url": "/posts/htb-crossfit/",
+        "categories": "Hackthebox, retired",
+        "tags": "Create a HTTP Request in JS,escapeArgs option is not working properly,pspy64,LinPEAS,john",
+        "date": "2020-11-26 00:00:00 +0000",
+        "snippet": "Introduction@Crossfit:~$ Column Details Name Crossfit Os Linux Difficulty Insane..."
+    },
+    {
+        "title": "Hackthebox Luanne Writeup",
+        "url": "/posts/htb-luanne/",
+        "categories": "Hackthebox, retired",
+        "tags": "lua,mkfifo,OpenBSD manual page server,doas,john",
+        "date": "2020-12-02 00:00:00 +0000",
+        "snippet": "Introduction@Luanne:~$ Column Details Name Luanne Os Other Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Ready Writeup",
+        "url": "/posts/htb-ready/",
+        "categories": "Hackthebox, retired",
+        "tags": "GitLab 11.4.7 Remote Code Execution,POC,Escaping Docker Privileged Containers,Understanding Docker container escapes",
+        "date": "2020-12-14 00:00:00 +0000",
+        "snippet": "Introduction@Ready:~$ Column Details Name Ready Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Delivery Writeup",
+        "url": "/posts/htb-delivery/",
+        "categories": "Hackthebox, retired",
+        "tags": "OneRuleToRuleThemAll",
+        "date": "2021-01-11 00:00:00 +0000",
+        "snippet": "Introduction@Delivery:~$ Column Details Name Delivery Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Cereal Writeup",
+        "url": "/posts/htb-cereal/",
+        "categories": "Hackthebox, retired",
+        "tags": "GitTools,Cross-site Scripting,The JSON Web Token Toolkit v2,Shell.aspx,GraphQL APIs",
+        "date": "2021-01-11 00:00:00 +0000",
+        "snippet": "Introduction@Cereal:~$ Column Details Name Cereal Os Linux Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Tenet Writeup",
+        "url": "/posts/htb-tenet/",
+        "categories": "Hackthebox, retired",
+        "tags": "Recursively copy/backup all,Exploiting PHP deserialization",
+        "date": "2021-02-08 00:00:00 +0000",
+        "snippet": "Introduction@Tenet:~$ Column Details Name Tenet Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Sink Writeup",
+        "url": "/posts/htb-sink/",
+        "categories": "Hackthebox, retired",
+        "tags": "HAProxy HTTP request smuggling,CVE-2019-18277,Cookie-Editor,CyberChef",
+        "date": "2021-02-14 00:00:00 +0000",
+        "snippet": "Introduction@Sink:~$ Column Details Name Sink Os Linux Difficulty Insane..."
+    },
+    {
+        "title": "Hackthebox ScriptKiddie Writeup",
+        "url": "/posts/htb-scriptkiddie/",
+        "categories": "Hackthebox, retired",
+        "tags": "msfvenom APK Template Command Injection,CVE-2020-7384",
+        "date": "2021-02-17 00:00:00 +0000",
+        "snippet": "Introduction@ScriptKiddie:~$ Column Details Name ScriptKiddie Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Spectra Writeup",
+        "url": "/posts/htb-spectra/",
+        "categories": "Hackthebox, retired",
+        "tags": "WordPress Reverse Shell,SUDO Privileges at initctl",
+        "date": "2021-03-04 00:00:00 +0000",
+        "snippet": "Introduction@Spectra:~$ Column Details Name Spectra Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox armageddon Writeup",
+        "url": "/posts/htb-armageddon/",
+        "categories": "Hackthebox, retired",
+        "tags": "Drupal Drupalgeddon 2 Forms API Property Injection,Privilege Escalation in Ubuntu Linux,dirty_sock",
+        "date": "2021-03-29 00:00:00 +0000",
+        "snippet": "Introduction@Armageddon:~$ Column Details Name Armageddon Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Unobtainium Writeup",
+        "url": "/posts/htb-unobtainium/",
+        "categories": "Hackthebox, retired",
+        "tags": "Prototype Pollution,Command Injection,Install kubectl binary with curl on Linux,Chisel,Bad Pod,everything-allowed-exec-pod.yaml,everything-allowed-revshell-pod.yaml",
+        "date": "2021-04-18 00:00:00 +0000",
+        "snippet": "Introduction@Unobtainium:~$ Column Details Name Unobtainium Os Linux Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Atom Writeup",
+        "url": "/posts/htb-atom/",
+        "categories": "Hackthebox, retired",
+        "tags": "Signature Validation Bypass,winPEASx64.exe,redis_cheatsheet,PortableKanban Encrypted Password Disclosure,Python3 Script",
+        "date": "2021-04-19 00:00:00 +0000",
+        "snippet": "Introduction@Atom:~$ Column Details Name Atom Os Windows Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Monitors Writeup",
+        "url": "/posts/htb-monitors/",
+        "categories": "Hackthebox, retired",
+        "tags": "WordPress Plugin WP with Spritz 1.0,LFI to RCE,CVE-2020-14295,Apache OFBiz XML-RPC Java Deserialization,Abusing SYS_MODULE capability",
+        "date": "2021-04-29 00:00:00 +0000",
+        "snippet": "Introduction@Monitors:~$ Column Details Name Monitors Os Linux Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Love Writeup",
+        "url": "/posts/htb-love/",
+        "categories": "Hackthebox, retired",
+        "tags": "Voting System 1.0 - File Upload RCE,php_reverse_shell_mini.php,Always Install Elevated",
+        "date": "2021-05-03 00:00:00 +0000",
+        "snippet": "Introduction@Love:~$ Column Details Name Love Os Windows Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Pivotapi Writeup",
+        "url": "/posts/htb-pivotapi/",
+        "categories": "Hackthebox, retired",
+        "tags": "CMD Watcher,API Monitor,PrintSpoofer,Mssql_Shell.py",
+        "date": "2021-05-15 00:00:00 +0000",
+        "snippet": "Introduction@Pivotapi:~$ Column Details Name Pivotapi Os Windows Difficulty Insane..."
+    },
+    {
+        "title": "Hackthebox Knife Writeup",
+        "url": "/posts/htb-knife/",
+        "categories": "Hackthebox, retired",
+        "tags": "PHP 8.1.0-dev development version backdoor",
+        "date": "2021-05-23 00:00:00 +0000",
+        "snippet": "Introduction@Knife:~$ Column Details Name Knife Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Spider Writeup",
+        "url": "/posts/htb-spider/",
+        "categories": "Hackthebox, retired",
+        "tags": "Server Side Template Injection Payloads,XXE Cheatsheet",
+        "date": "2021-06-01 00:00:00 +0000",
+        "snippet": "Introduction@Spider:~$ Column Details Name Spider Os Linux Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Cap Writeup",
+        "url": "/posts/htb-cap/",
+        "categories": "Hackthebox, retired",
+        "tags": "",
+        "date": "2021-06-06 00:00:00 +0000",
+        "snippet": "Introduction@Cap:~$ Column Details Name Cap Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Static Writeup",
+        "url": "/posts/htb-static/",
+        "categories": "Hackthebox, active",
+        "tags": "Fixgz,Authenticator,xdebug Unauthenticated,PHP-FPM Remote Code Execution,PHP-FPM Remote Code Execution,PoC CVE-2019-11043,nc,how to download a file using just bash,pspy64s,PATH Variable",
+        "date": "2021-06-25 00:00:00 +0000",
+        "snippet": "Introduction@Static:~$ Column Details Name Static Os Linux Difficulty Hard..."
+    },
+    {
+        "title": "Hackthebox Horizontall Writeup",
+        "url": "/posts/htb-horizontall/",
+        "categories": "Hackthebox, active",
+        "tags": "Exploiting friends with CVE-2019-18818,Strapi Framework Vulnerable to Remote Code Execution,LARAVEL <= V8.4.2 DEBUG MODE: REMOTE CODE EXECUTION,CVE-2021-3129 POC,CVE-2021-3129_exploit",
+        "date": "2021-08-31 00:00:00 +0000",
+        "snippet": "Introduction@Horizontall:~$ Column Details Name Horizontall Os Linux Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Forge Writeup",
+        "url": "/posts/htb-forge/",
+        "categories": "Hackthebox, active",
+        "tags": "SSRF",
+        "date": "2021-09-12 00:00:00 +0000",
+        "snippet": "Introduction@Forge:~$ Column Details Name Forge Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Driver Writeup",
+        "url": "/posts/htb-driver/",
+        "categories": "Hackthebox, active",
+        "tags": "SMB Share – SCF File Attacks,CVE-2021-1675",
+        "date": "2021-10-04 00:00:00 +0000",
+        "snippet": "Introduction@Driver:~$ Column Details Name Driver Os Windows Difficulty Easy..."
+    },
+    {
+        "title": "Hackthebox Devzat Writeup",
+        "url": "/posts/htb-devzat/",
+        "categories": "Hackthebox, active",
+        "tags": "Git-Dumper,InfluxDB Exploit CVE-2019-20933,Text-Compare",
+        "date": "2021-10-21 00:00:00 +0000",
+        "snippet": "Introduction@Devzat:~$ Column Details Name Devzat Os Linux Difficulty Medium..."
+    },
+    {
+        "title": "Hackthebox Secret Writeup",
+        "url": "/posts/htb-secret/",
+        "categories": "Hackthebox, active",
+        "tags": "JWT,PRCTL,Apport,CrashReporting",
+        "date": "2021-11-02 00:00:00 +0000",
+        "snippet": "Introduction@Secret:~$ Column Details Name Secret Os Linux Difficulty Easy..."
+    }
+]
