@@ -1,0 +1,10 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+/* append your custom style below */
+::selection {
+    background-color: #F074C0; /* Cor de fundo para a seleção de texto */
+    color: #000000; /* Cor do texto selecionado */
+}
