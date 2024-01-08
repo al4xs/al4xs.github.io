@@ -3,7 +3,8 @@ title: O FBI foi hackeado por um troll
 date: 2023-09-29 15:57:00 +0800
 categories: [notices]
 tags: [hackers, hackeado, fbi] # TAG names should always be lowercase
-image: https://frankonfraud.com/wp-content/uploads/2021/03/FBI-FRAUD-REPORT-2021.jpg
+image:
+    path: /assets/img/posts/fbi-hack.jpg
 ---
 
 # O aviso

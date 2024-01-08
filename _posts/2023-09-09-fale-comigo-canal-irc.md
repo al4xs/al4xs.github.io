@@ -3,7 +3,8 @@ title: Fale comigo pelo IRC
 date: 2023-09-09 12:43:00 +0800
 categories: [irc]
 tags: [irc, portal, comunicacao] # TAG names should always be lowercase
-image: https://external-preview.redd.it/vLR9Fy6Qbi81ZvZot0yMIqjzF8ho03-sh5fb5beuQNk.jpg?auto=webp&s=d325a5c991404de9260d26b11b52bb90011d777d
+image:
+    path: /assets/img/posts/robot-irc.png
 ---
 
 - [Welcome](#welcome)

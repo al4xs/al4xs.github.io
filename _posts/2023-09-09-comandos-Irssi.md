@@ -3,7 +3,8 @@ title: Tutorial de comandos IRC para chat IRSSI
 date: 2023-09-09 20:43:00 +0800
 categories: [irc]
 tags: [irc, portal, comunicacao, comandos] # TAG names should always be lowercase
-image: https://storage.5apps.com/basti/public/shares/150723-1909-vlcsnap-2015-07-23-21h09m27s277.png
+image:
+    path: /assets/img/posts/irc-robot.png
 ---
 
 Este é um guia, um tutorial completo pros amantes do IRC, em especial, pra quem gosta de usar o IRC pelo terminal com IRSSI.

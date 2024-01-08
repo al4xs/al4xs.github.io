@@ -3,7 +3,8 @@ title: Como acessar o IRC modo GUI com hexchat
 date: 2023-09-10 15:29:00 +0800
 categories: [irc]
 tags: [irc, portal, comunicacao, tor, deepweb] # TAG names should always be lowercase
-image: https://upload.wikimedia.org/wikipedia/commons/1/14/Hexchat_2.16.0_screenshot.png
+image:
+    path: /assets/img/posts/irc-hexchat.png
 ---
 
 # Sumario

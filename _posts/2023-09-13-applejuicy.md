@@ -3,7 +3,8 @@ title: Ataque de notificações de emparelhagem falsificadas Apple Juice
 date: 2023-09-13 18:44:00 +0800
 categories: [notices]
 tags: [Apple, falha, attack, defcon] # TAG names should always be lowercase
-image: https://techcrunch.com/wp-content/uploads/2023/08/iphone-popups-device-3.jpeg?w=730&crop=1
+image:
+    path: /assets/img/posts/apple-juicy.png
 ---
 
 

@@ -3,7 +3,8 @@ title: Os hackers no mundo
 date: 2023-09-22 14:30:00 +0800
 categories: [blog, artigos, hacker]
 tags: [hackers] # TAG names should always be lowercase
-image: https://img.freepik.com/vetores-premium/console-de-terminal-abstrato-conjunto-de-elementos-de-interface-futurista-privacidade-e-seguranca-na-internet-interface-de-hackers-processo-de-hacking_122058-1352.jpg
+image:
+    path: /assets/img/posts/hacking-hackers.png
 ---
 
 # Hackers podem ter um impacto positivo no mundo, principalmente para a nossa geração futura.
