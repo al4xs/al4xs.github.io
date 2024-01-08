@@ -4,7 +4,7 @@ date: 2023-09-29 03:52:00 +0800
 categories: [notices]
 tags: [espionagem] # TAG names should always be lowercase
 image:
-    path: /assets/img/posts/celular-espião.jpg
+    path: /assets/img/posts/celular-espiao.jpg
 ---
 
 
