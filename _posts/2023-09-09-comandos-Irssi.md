@@ -11,10 +11,73 @@ Este é um guia, um tutorial completo pros amantes do IRC, em especial, pra quem
 
 ## SUMÁRIO
 
+- [ Comandos de Configuração](#iniciando-no-irssi)
 - [ Comandos de Configuração](#comandos-de-configuração)
 - [ Comandos de Chat](#comandos-de-chat)
 - [ Comandos mais utilizados](#comandos-mais-utilizados)
 - [ IRSSI na rede TOR](#irssi-na-rede-toronion)
+
+
+# INICIANDO NO IRSSI
+
+O irssi é um cliente do protocolo irc, utilizado para troca de mensagens, e por incrível que parece, ainda hoje é muito utilizado, e hoje vou te ensinar a logar em um serve para poder conversar comigo e ainda criar uma familiaridade pra você que nunca utilizou o irc.
+
+### Instalando o IRSSI
+
+```
+sudo apt update -y && sudo apt install irssi -y
+```
+
+depois de instalar vamos adicionar um servidor privado para nos conectar, edite o arquivo de configuração.
+
+```
+nano ~/.irssi/config
+```
+
+Agora insira o seguinte comando, conforme mostro no exemplo logo abaixo:
+
+```
+  {
+    address = "irc.slackjeff.com.br";
+    chatnet = "Slackjeff";
+    port = "6697";
+    use_tls = "yes";
+    tls_verify = "no";
+  },
+```
+
+![irssi exemplo](/assets/img/posts/config-irssi.png)
+
+Salve o arquivo editado.
+
+### Conectando-se ao IRSSI
+
+Inicie o irssi no seu terminal.
+
+```
+irssi
+```
+
+Agora basta se conectar no servidor privado que configuramos.
+
+```
+/connect irc.slackjeff.com.br
+```
+
+Insira um nome de identificação aleatório:
+
+```
+/nick meunickfoda
+```
+
+e escolha um nome de sala para entrar:
+```
+/join #mundo-libre
+```
+
+O nome da minha sala é `#defcon4`, aparece por lá também.
+
+
 
 
 # COMANDOS DE CONFIGURAÇÃO
