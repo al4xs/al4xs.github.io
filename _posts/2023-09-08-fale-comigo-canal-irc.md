@@ -102,12 +102,15 @@ Inicie o irssi no seu terminal.
 irssi
 /server irc.slackjeff.com.br
 /nick seunomehacker
+
+### vamos registrar um nome de usuário
 /msg NickServ REGISTER SuaSenhafoda seuemail@example.com
 ```
 
 ### Adicionando o certificado a sua conta
 
 ```
+### vamos nos identificar com o nome de usuário criado
 /msg NickServ IDENTIFY seunomehacker SuaSenhafoda
 
 ### Agora adicione o fingerprint que você salvou anteriormente:
