@@ -107,7 +107,7 @@ shodan alert enable <ID do alerta> new_service,open_database,vulnerable,ssl_expi
 
 Para visualizar seus alertas:
 ```bash
-`shodan alert list`
+shodan alert list
 ```
 
 > Você também pode gerenciar seus alertas na web seguindo link: [Shodan Monitor](https://monitor.shodan.io/dashboard)
