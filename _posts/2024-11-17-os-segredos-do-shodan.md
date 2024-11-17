@@ -17,7 +17,7 @@ Resumidamente, o Shodan é comparado com o google por sua capacidade de indexaç
 
 Agora deixe-me te mostrar como fazer pesquisas eficientes e não genéricas com a maioria dos hunters/pesquisadores fazem.
 
-Acesse o ![Shodan Web](https://account.shodan.io/login?continue=http%3A%2F%2Fwww.shodan.io%2Fdashboard) para utilizar a barra de pesquisa do Shodan.
+Acesse o [Shodan Web](https://account.shodan.io/login?continue=http%3A%2F%2Fwww.shodan.io%2Fdashboard) para utilizar a barra de pesquisa do Shodan.
 
 Sim, você precisará fazer login na sua conta para conseguir fazer buscas personalizadas e talvez ter uma conta membro, lembro de ter pago 5 doláres para ser membro definitivo.
 
@@ -98,7 +98,7 @@ Para visualizar seus alertas:
 `shodan alert list`
 ```
 
-> Você também pode gerenciar seus alertas na web seguindo link: ![Shodan Monitor](https://monitor.shodan.io/dashboard)
+> Você também pode gerenciar seus alertas na web seguindo link: [Shodan Monitor](https://monitor.shodan.io/dashboard)
 
 
 Você também pode realizar download de informações de uma organização específica através do seu terminal:
@@ -116,7 +116,7 @@ shodan stats --facets org tesla
 
 É possível realizar reconhecimento de um site ou até buscar por vulnerabilidades, o Shodan pode parecer dificil, mas depois que você aprende utilizar as querys de pesquisas, ele abre caminhos pra você.
 
-E se você gosta de uma tela retro cyberpunk, você pode se divertir com isso: ![Shodan Retro Anos 2000 - Clique Aqui](https://2000.shodan.io)
+E se você gosta de uma tela retro cyberpunk, você pode se divertir com isso: [Shodan Retro Anos 2000 - Clique Aqui](https://2000.shodan.io)
 
 Obrigado por ler até aqui.
 
