@@ -125,6 +125,11 @@ E por fim ver, estatísticas:
 ```bash
 shodan stats --facets org tesla
 ```
+## trick
+
+Eu sei que não é fácil lembrar todos os comandos, e você sempre vai precisar pesquisar por eles em algum momento, e o que eu faço é ter uma função carregada no meu terminal, assim basta eu digitar o comando: `shodanquery` e tenho tudo que preciso para fazer minhas pesquisas.
+
+![funcao](/assets/img/posts/shodan-query.png)
 
 ## Considerações
 
