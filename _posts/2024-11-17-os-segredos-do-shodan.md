@@ -11,11 +11,11 @@ Embora eu ame um título persuasivo, não existe segredo algum no Shodan. Entret
 
 # Shodan ou Google?
 
-Resumidamente, o Shodan é comparado com o google por sua capacidade de indexação, mas o google indexa word wide web, enquanto Shodan é capaz de indexar quase tudo que está online interagindo diretamente com o serviço e armazenando os metadados que chamamos de "banner".
+Resumidamente, o `Shodan` é comparado com o google por sua capacidade de indexação, mas o google indexa word wide web, enquanto Shodan é capaz de indexar quase tudo que está online interagindo diretamente com o serviço e armazenando os metadados que chamamos de "banner".
 
 # Primeiro acesso ao Shodan
 
-Agora deixe-me te mostrar como fazer pesquisas eficientes e não genéricas com a maioria dos hunters/pesquisadores fazem.
+Agora deixe-me te mostrar como fazer `pesquisas eficientes` e não genéricas com a maioria dos hunters/pesquisadores fazem.
 
 Acesse o [Shodan Web](https://account.shodan.io/login?continue=http%3A%2F%2Fwww.shodan.io%2Fdashboard) para utilizar a barra de pesquisa do Shodan.
 
@@ -27,37 +27,47 @@ Vou utilizar a empresa Tesla Motors para exemplificar.
 
 Então, para realizar uma busca por dominios com os mesmos certificados registrados:
 
-`ssl:tesla.com`
+```text
+ssl:tesla.com
+```
 
 > obs: Muito útil para capturar subdomínios.
 
 Agora, faça uma busca por organização:
-`org:"Tesla Motors Inc."`
+```text
+org:"Tesla Motors Inc."
+```
 
 Se você quiser é fácil fazer um filtro específico baseado em qualquer informação que temos na tela, seja um corpo de resposta, um pedaço do cabeçalho, do certificado, uma porta específica ou dominio.
 
 Vamos fazer o primeiro filtro por portas abertas:
-`org:"Tesla Motors Inc." port:80`
+```text
+org:"Tesla Motors Inc." port:80
+```
 
 Vamos fazer um segundo filtro por servidor:
-`org:"Tesla Motors Inc." port:80 Server: BigIP`
+```text
+org:"Tesla Motors Inc." port:80 Server: BigIP
+```
 
 Aqui estão algumas pesquisas para ambientes vulneraveis para fins didáticos:
 
-`city:Sorocaba IP Camera`
-`country:BR webcam`
-`os:windows 7 authenticated: disable`
-`os:"Windows 7" vuln:"MS17-010"`
-`os:"Windows 7" port:445 vuln:"MS17-010" country:"BR"`
-`port:22 product:"OpenSSH" version:<7.0`
-`port:21 "230 Login successful"`
-`port:5900 has_screenshot:true`
-`"Microsoft-IIS/7.5" http.title:"WebDAV"`
-`product:"Microsoft SMB" smb.version:1`
-`product:"Mikrotik" vuln:"CVE-2018-14847"`
-`product:"MongoDB" port:27017 "Authentication disabled"`
-`product:"Exim" vuln:"CVE-2019-10149"`
-`product:"Elastic" port:9200`
+```text
+city:Sorocaba IP Camera
+country:BR webcam
+os:windows 7 authenticated: disable
+os:"Windows 7" vuln:"MS17-010"
+os:"Windows 7" port:445 vuln:"MS17-010" country:"BR"
+port:22 product:"OpenSSH" version:<7.0
+port:21 "230 Login successful"
+port:5900 has_screenshot:true
+"Microsoft-IIS/7.5" http.title:"WebDAV"
+product:"Microsoft SMB" smb.version:1
+product:"Mikrotik" vuln:"CVE-2018-14847"
+product:"MongoDB" port:27017 "Authentication disabled"
+product:"Exim" vuln:"CVE-2019-10149"
+product:"Elastic" port:9200
+```
 
 É realmente muito fácil realizar pesquisas, e o Shodan ainda oferece uma interface em modo cli para os amantes de terminal como eu.
 
@@ -65,7 +75,9 @@ Aqui estão algumas pesquisas para ambientes vulneraveis para fins didáticos:
 
 Para instalar utilize o PIP do python3:
 
-`pip3 install shodan`
+```bash
+pip3 install shodan
+```
 
 Vamos fazer as buscas como aprendemos na web:
 
@@ -103,8 +115,10 @@ Para visualizar seus alertas:
 
 Você também pode realizar download de informações de uma organização específica através do seu terminal:
 
-`shodan download --limit -1 results ‘title:”Tesla Motors Inc”’`
-`shodan parse --fields ip_str,port,org --separator , results.json.gz`
+```bash
+shodan download --limit -1 results ‘title:”Tesla Motors Inc”’
+shodan parse --fields ip_str,port,org --separator , results.json.gz
+```
 
 E por fim ver, estatísticas:
 
